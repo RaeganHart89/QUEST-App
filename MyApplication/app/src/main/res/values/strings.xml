@@ -6,4 +6,56 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_question_generator">QuestionGeneratorActivity</string>
 
+        <string-array name="array_verbs">
+            <item>identify</item>
+            <item>remember</item>
+            <item>describe</item>
+            <item>select</item>
+            <item>list</item>
+
+            <item>interpret</item>
+            <item>outline</item>
+            <item>explain</item>
+            <item>compare</item>
+            <item>distinguish</item>
+
+
+            <item>analyse</item>
+            <item>illustrate</item>
+            <item>contrast</item>
+            <item>criticise</item>
+            <item>reflect</item>
+
+            <item>recommend</item>
+            <item>evaluate</item>
+            <item>propose</item>
+            <item>argue</item>
+            <item>justify</item>
+
+        </string-array>
+
+
+        <string-array name="array_quantifier_lower">
+            <item>between 1 and 3</item>
+            <item>how</item>
+            <item>in detail</item>
+            <item>the benefits of</item>
+            <item>the</item>
+            <item>your</item>
+            <item>why</item>
+        </string-array>
+
+        <string-array name="array_quantifier_upper">
+            <item>an alternative to</item>
+            <item>between 1 and 2 different ways</item>
+            <item>how you felt when</item>
+            <item>in detail how you could</item>
+            <item>the benefits of</item>
+            <item>what would happen if</item>
+            <item>what the impact of</item>
+            <item>why you should or could</item>
+
+        </string-array>
+
+
 </resources>
